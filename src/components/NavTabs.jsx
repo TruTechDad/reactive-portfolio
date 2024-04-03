@@ -8,27 +8,23 @@ function NavTabs() {
   return (
     <header>
       <nav>
-        <Link
-          to="/"
-        >
+        <Link to="/">
           Home
         </Link>
-        <Link
-          to="/About"
-        >
+        <Link to="/About">
           About
         </Link>
-        <Link
-          to="/Portfolio"
-        >
-          Blog
+        <Link to="/Portfolio">
+          Portfolio
         </Link>
-        <Link
-          to="/Contact"
-        >
+        <Link to="/Contact">
           Contact
         </Link>
+        <Link to="/Resume">
+          Resume
+        </Link>
       </nav>
+      <h1> hello</h1>
     </header>
   );
 }
