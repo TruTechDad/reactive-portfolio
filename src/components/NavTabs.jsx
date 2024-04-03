@@ -24,7 +24,7 @@ function NavTabs() {
           Resume
         </Link>
       </nav>
-      <h1> hello</h1>
+      <h1>Welcome to my Phillip's Portfolio</h1>
     </header>
   );
 }
